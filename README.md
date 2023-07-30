@@ -7,11 +7,11 @@ This project uses k-mean clustering to segment customers based on their purchase
 
 # Dependencies:
 The following dependencies are needed to run this project:
-numpy
-pandas
-matplotlib
-seaborn
-sklearn
+  numpy
+  pandas
+  matplotlib
+  seaborn
+  sklearn
 
 # Usage:
 To run this project, you will need to install the dependencies listed above. Once you have installed the dependencies, you can run the project by following these steps:
