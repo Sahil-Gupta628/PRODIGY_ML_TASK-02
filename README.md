@@ -1,7 +1,5 @@
 # Customer Segmentation
 
-# Customer Segmentation of a retail store based on their purchase history.
-
 # Description:
 This project uses k-mean clustering to segment customers based on their purchase behavior. The dataset used for this project is the "mall_customers.csv" dataset, which contains information on the customer ID, gender, age, annual income, and spending score of 200 customers. The k-mean clustering algorithm is used to group the customers into different clusters based on their similarities in terms of their purchase behavior.
 
