@@ -1,4 +1,4 @@
-# PRODIGY_ML_TASK-02
+# Customer Segmentation
 
 # Customer Segmentation of a retail store based on their purchase history.
 
